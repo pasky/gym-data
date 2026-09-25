@@ -2,7 +2,239 @@
  "deleted": {},
  "format": "gym-log",
  "notes": {},
- "sessions": [],
+ "sessions": [
+  {
+   "end": 1790348829185,
+   "id": "muh1e7zxj8a3a",
+   "items": [
+    {
+     "ex": "seated-cable-row",
+     "note": "Wide handle (I think the handle matters a lot Re arm position and then muscles)",
+     "sets": [
+      {
+       "at": 1790345864477,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1790345865571,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1790345867534,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1790345868299,
+       "done": true,
+       "r": 10,
+       "w": 35
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "Pos 21",
+     "sets": [
+      {
+       "at": 1790346104530,
+       "done": true,
+       "r": 12,
+       "w": 7.5
+      },
+      {
+       "at": 1790346183087,
+       "done": true,
+       "r": 6,
+       "w": 12.5
+      },
+      {
+       "at": 1790346385084,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7.5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "machine-shoulder-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1790346686471,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1790346738574,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1790346837173,
+       "done": true,
+       "r": 8,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "goblet-step-up",
+     "note": "Mid height table",
+     "sets": [
+      {
+       "at": 1790347056413,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1790347179991,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1790347386447,
+       "done": true,
+       "r": 8,
+       "w": 12
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 6,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lat-pulldown",
+     "note": "Pos 3",
+     "sets": [
+      {
+       "at": 1790347574973,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1790347694493,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1790347897417,
+       "done": true,
+       "r": 10,
+       "w": 35
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 35,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "side-plank-hip-lift",
+     "note": "",
+     "sets": [
+      {
+       "at": 1790348163454,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1790348322985,
+       "done": true,
+       "r": 9,
+       "w": null
+      },
+      {
+       "at": 1790348469164,
+       "done": true,
+       "r": 8,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "kinesis-chest-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1790348603306,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1790348702337,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1790348816394,
+       "done": true,
+       "r": 10,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "Exhausted and sweaty :)",
+   "start": 1790345348350
+  }
+ ],
  "targetLog": [],
  "targets": {},
  "v": 3
