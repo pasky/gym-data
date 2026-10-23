@@ -233,6 +233,169 @@
    ],
    "note": "Exhausted and sweaty :)",
    "start": 1790345348350
+  },
+  {
+   "end": null,
+   "id": "mvkv90e26feya",
+   "items": [
+    {
+     "ex": "lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792753768030,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1792753876950,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1792753946262,
+       "done": true,
+       "r": 10,
+       "w": 35
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 35,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792754255924,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1792754398520,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1792754545374,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7.5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "seated-cable-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792754753467,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1792754875226,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1792755348687,
+       "done": true,
+       "r": 10,
+       "w": 30
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "face-pull",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792755162926,
+       "done": true,
+       "r": 12,
+       "w": 10
+      },
+      {
+       "at": 1792755214271,
+       "done": true,
+       "r": 12,
+       "w": 10
+      },
+      {
+       "at": 1792755342092,
+       "done": true,
+       "r": 12,
+       "w": 10
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 10,
+      "reps": 12,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "kinesis-chest-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792755508977,
+       "done": true,
+       "r": 10,
+       "w": 5
+      },
+      {
+       "at": 1792755576896,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1792753674554,
+   "u": 1792755576897
   }
  ],
  "targetLog": [],
