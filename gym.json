@@ -379,9 +379,10 @@
        "w": 7
       },
       {
-       "done": false,
-       "r": null,
-       "w": null
+       "at": 1792755711942,
+       "done": true,
+       "r": 10,
+       "w": 7
       }
      ],
      "ss": "",
@@ -391,11 +392,70 @@
       "rest": 60,
       "sets": 3
      }
+    },
+    {
+     "ex": "side-plank-hip-lift",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792756037504,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1792756277120,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1792756502286,
+       "done": true,
+       "r": 10,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "goblet-step-up",
+     "note": "",
+     "sets": [
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      },
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      },
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 6,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
     }
    ],
    "note": "",
    "start": 1792753674554,
-   "u": 1792755576897
+   "u": 1792756682054
   }
  ],
  "targetLog": [],
