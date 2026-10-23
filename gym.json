@@ -235,7 +235,7 @@
    "start": 1790345348350
   },
   {
-   "end": null,
+   "end": 1792757938121,
    "id": "mvkv90e26feya",
    "items": [
     {
@@ -429,19 +429,53 @@
      "note": "",
      "sets": [
       {
-       "done": false,
-       "r": null,
-       "w": null
+       "at": 1792756766395,
+       "done": true,
+       "r": 8,
+       "w": 12
       },
       {
-       "done": false,
-       "r": null,
-       "w": null
+       "at": 1792757295435,
+       "done": true,
+       "r": 8,
+       "w": 12
       },
       {
-       "done": false,
-       "r": null,
-       "w": null
+       "at": 1792757935462,
+       "done": true,
+       "r": 8,
+       "w": 12
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 6,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "curl-to-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1792757682118,
+       "done": true,
+       "r": 8,
+       "w": 6
+      },
+      {
+       "at": 1792757792029,
+       "done": true,
+       "r": 8,
+       "w": 6
+      },
+      {
+       "at": 1792757898432,
+       "done": true,
+       "r": 8,
+       "w": 6
       }
      ],
      "ss": "",
@@ -455,7 +489,7 @@
    ],
    "note": "",
    "start": 1792753674554,
-   "u": 1792756682054
+   "u": 1792757938121
   }
  ],
  "targetLog": [],
