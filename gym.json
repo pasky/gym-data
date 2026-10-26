@@ -490,6 +490,139 @@
    "note": "",
    "start": 1792753674554,
    "u": 1792757938121
+  },
+  {
+   "end": null,
+   "id": "mvp9s1i6zacjr",
+   "items": [
+    {
+     "ex": "goblet-step-up",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793020018896,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1793020158635,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1793020313919,
+       "done": true,
+       "r": 8,
+       "w": 12
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 6,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "seated-cable-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793020538541,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1793020608394,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1793020708130,
+       "done": true,
+       "r": 10,
+       "w": 30
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "face-pull",
+     "note": "Pos 30",
+     "sets": [
+      {
+       "at": 1793020908595,
+       "done": true,
+       "r": 12,
+       "w": 10
+      },
+      {
+       "at": 1793020992865,
+       "done": true,
+       "r": 12,
+       "w": 10
+      },
+      {
+       "at": 1793021172644,
+       "done": true,
+       "r": 12,
+       "w": 10
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 10,
+      "reps": 12,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793021465085,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1793021596568,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1793021777592,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7.5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1793019941790,
+   "u": 1793021777592
   }
  ],
  "targetLog": [],
