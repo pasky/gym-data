@@ -558,6 +558,37 @@
      }
     },
     {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793021465085,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1793021596568,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      },
+      {
+       "at": 1793021777592,
+       "done": true,
+       "r": 10,
+       "w": 7.5
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7.5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
      "ex": "face-pull",
      "note": "Pos 30",
      "sets": [
@@ -589,31 +620,30 @@
      }
     },
     {
-     "ex": "cable-trunk-twist",
+     "ex": "machine-shoulder-press",
      "note": "",
      "sets": [
       {
-       "at": 1793021465085,
+       "at": 1793021965348,
        "done": true,
        "r": 10,
-       "w": 7.5
+       "w": 10
       },
       {
-       "at": 1793021596568,
+       "at": 1793022050866,
        "done": true,
        "r": 10,
-       "w": 7.5
+       "w": 10
       },
       {
-       "at": 1793021777592,
-       "done": true,
-       "r": 10,
-       "w": 7.5
+       "done": false,
+       "r": null,
+       "w": null
       }
      ],
      "ss": "",
      "target": {
-      "load": 7.5,
+      "load": 10,
       "reps": 10,
       "rest": 90,
       "sets": 3
@@ -622,7 +652,7 @@
    ],
    "note": "",
    "start": 1793019941790,
-   "u": 1793021777592
+   "u": 1793022050866
   }
  ],
  "targetLog": [],
