@@ -492,7 +492,7 @@
    "u": 1792757938121
   },
   {
-   "end": null,
+   "end": 1793023549234,
    "id": "mvp9s1i6zacjr",
    "items": [
     {
@@ -558,6 +558,7 @@
      }
     },
     {
+     "easy": true,
      "ex": "cable-trunk-twist",
      "note": "",
      "sets": [
@@ -589,6 +590,7 @@
      }
     },
     {
+     "easy": true,
      "ex": "face-pull",
      "note": "Pos 30",
      "sets": [
@@ -667,8 +669,9 @@
        "w": null
       },
       {
-       "done": false,
-       "r": null,
+       "at": 1793022720952,
+       "done": true,
+       "r": 10,
        "w": null
       }
      ],
@@ -679,11 +682,73 @@
       "rest": 60,
       "sets": 3
      }
+    },
+    {
+     "ex": "kinesis-chest-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793022938708,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1793023034542,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1793023143699,
+       "done": true,
+       "r": 10,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793023283116,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1793023382723,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1793023515894,
+       "done": true,
+       "r": 10,
+       "w": 35
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 35,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
     }
    ],
    "note": "",
    "start": 1793019941790,
-   "u": 1793022557484
+   "u": 1793023549234
   }
  ],
  "targetLog": [],
