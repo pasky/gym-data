@@ -636,9 +636,10 @@
        "w": 10
       },
       {
-       "done": false,
-       "r": null,
-       "w": null
+       "at": 1793022190485,
+       "done": true,
+       "r": 10,
+       "w": 9
       }
      ],
      "ss": "",
@@ -648,11 +649,41 @@
       "rest": 90,
       "sets": 3
      }
+    },
+    {
+     "ex": "side-plank-hip-lift",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793022411598,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1793022557483,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
     }
    ],
    "note": "",
    "start": 1793019941790,
-   "u": 1793022050866
+   "u": 1793022557484
   }
  ],
  "targetLog": [],
