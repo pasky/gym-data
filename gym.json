@@ -749,9 +749,302 @@
    "note": "",
    "start": 1793019941790,
    "u": 1793023549234
+  },
+  {
+   "end": 1793376305524,
+   "id": "mvv3u098f0shx",
+   "items": [
+    {
+     "ex": "lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793372815997,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1793372894441,
+       "done": true,
+       "r": 10,
+       "w": 35
+      },
+      {
+       "at": 1793372953596,
+       "done": true,
+       "r": 10,
+       "w": 35
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 35,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "goblet-step-up",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793373068251,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1793373220837,
+       "done": true,
+       "r": 8,
+       "w": 12
+      },
+      {
+       "at": 1793373390054,
+       "done": true,
+       "r": 8,
+       "w": 12
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 6,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793373595372,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1793373763019,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1793373924494,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "seated-cable-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793374568478,
+       "done": true,
+       "r": 10,
+       "w": 25
+      },
+      {
+       "at": 1793374661951,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1793374753478,
+       "done": true,
+       "r": 10,
+       "w": 30
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "face-pull",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793374086708,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      },
+      {
+       "at": 1793374191285,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      },
+      {
+       "at": 1793374339843,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 12.5,
+      "reps": 12,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "machine-shoulder-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793374882885,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1793375019259,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1793375151844,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "side-plank-hip-lift",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793375371294,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1793375539687,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1793375958342,
+       "done": true,
+       "r": 10,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "curl-to-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793376074859,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1793376154202,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1793376295878,
+       "done": true,
+       "r": 10,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1793372752844,
+   "u": 1793376305524
   }
  ],
- "targetLog": [],
- "targets": {},
+ "targetLog": [
+  {
+   "ex": "cable-trunk-twist",
+   "from": 7.5,
+   "k": "load",
+   "t": 1793373475627,
+   "to": 10
+  },
+  {
+   "ex": "face-pull",
+   "from": 10,
+   "k": "load",
+   "t": 1793373981786,
+   "to": 12.5
+  },
+  {
+   "ex": "curl-to-press",
+   "from": 6,
+   "k": "load",
+   "t": 1793376009216,
+   "to": 7
+  }
+ ],
+ "targets": {
+  "cable-trunk-twist": {
+   "load": 10,
+   "u": 1793373475627
+  },
+  "curl-to-press": {
+   "load": 7,
+   "u": 1793376009216
+  },
+  "face-pull": {
+   "load": 12.5,
+   "u": 1793373981786
+  }
+ },
  "v": 3
 }
