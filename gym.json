@@ -1007,6 +1007,232 @@
    "note": "",
    "start": 1793372752844,
    "u": 1793376305524
+  },
+  {
+   "end": 1793716607802,
+   "id": "mw0sdnur1sowq",
+   "items": [
+    {
+     "ex": "deficit-reverse-lunge",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716312440,
+       "done": true,
+       "r": 8,
+       "w": 7
+      },
+      {
+       "at": 1793716312834,
+       "done": true,
+       "r": 8,
+       "w": 7
+      },
+      {
+       "at": 1793716315000,
+       "done": true,
+       "r": 8,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "leg-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716333236,
+       "done": true,
+       "r": 10,
+       "w": 60
+      },
+      {
+       "at": 1793716604813,
+       "done": true,
+       "r": 10,
+       "w": 80
+      },
+      {
+       "at": 1793716338172,
+       "done": true,
+       "r": 10,
+       "w": 80
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 80,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lateral-raise",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716400604,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1793716402377,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1793716402964,
+       "done": true,
+       "r": 10,
+       "w": 4
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 4,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "landmine-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716413964,
+       "done": true,
+       "r": 10,
+       "w": 0
+      },
+      {
+       "at": 1793716416109,
+       "done": true,
+       "r": 10,
+       "w": 5
+      },
+      {
+       "at": 1793716423636,
+       "done": true,
+       "r": 10,
+       "w": 5
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "one-arm-db-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716510320,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1793716512736,
+       "done": true,
+       "r": 10,
+       "w": 14
+      },
+      {
+       "at": 1793716517875,
+       "done": true,
+       "r": 10,
+       "w": 14
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 14,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "deadbug-hold",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716542397,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1793716542976,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1793716543493,
+       "done": true,
+       "r": 10,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "underhand-lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1793716563061,
+       "done": true,
+       "r": 10,
+       "w": 40
+      },
+      {
+       "at": 1793716563730,
+       "done": true,
+       "r": 10,
+       "w": 40
+      },
+      {
+       "at": 1793716566701,
+       "done": true,
+       "r": 10,
+       "w": 45
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 40,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1793716311555,
+   "u": 1793716607803
   }
  ],
  "targetLog": [
