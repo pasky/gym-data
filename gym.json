@@ -1483,6 +1483,13 @@
    "k": "load",
    "t": 1793376009216,
    "to": 7
+  },
+  {
+   "ex": "underhand-lat-pulldown",
+   "from": 40,
+   "k": "load",
+   "t": 1794232848502,
+   "to": 45
   }
  ],
  "targets": {
@@ -1497,6 +1504,10 @@
   "face-pull": {
    "load": 12.5,
    "u": 1793373981786
+  },
+  "underhand-lat-pulldown": {
+   "load": 45,
+   "u": 1794232848502
   }
  },
  "v": 3
