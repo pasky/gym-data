@@ -1460,6 +1460,326 @@
    "note": "",
    "start": 1794229083642,
    "u": 1794232799519
+  },
+  {
+   "end": 1795037304934,
+   "id": "mwmjvnxwg6edj",
+   "items": [
+    {
+     "ex": "underhand-lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795032383635,
+       "done": true,
+       "r": 10,
+       "w": 45
+      },
+      {
+       "at": 1795032531033,
+       "done": true,
+       "r": 10,
+       "w": 45
+      },
+      {
+       "at": 1795032710091,
+       "done": true,
+       "r": 10,
+       "w": 45
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 45,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "landmine-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795032940974,
+       "done": true,
+       "r": 10,
+       "w": 5
+      },
+      {
+       "at": 1795033126659,
+       "done": true,
+       "r": 10,
+       "w": 5
+      },
+      {
+       "at": 1795033315042,
+       "done": true,
+       "r": 10,
+       "w": 5
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "deficit-reverse-lunge",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795033542100,
+       "done": true,
+       "r": 8,
+       "w": 14
+      },
+      {
+       "at": 1795033727688,
+       "done": true,
+       "r": 8,
+       "w": 14
+      },
+      {
+       "at": 1795033909316,
+       "done": true,
+       "r": 8,
+       "w": 14
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795034203790,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795034366362,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795034506149,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "one-arm-db-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795034868225,
+       "done": true,
+       "r": 10,
+       "w": 14
+      },
+      {
+       "at": 1795035052603,
+       "done": true,
+       "r": 10,
+       "w": 14
+      },
+      {
+       "at": 1795035250063,
+       "done": true,
+       "r": 10,
+       "w": 14
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 14,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lateral-raise",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795036027511,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1795036100266,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1795036179562,
+       "done": true,
+       "r": 10,
+       "w": 4
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 4,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "deadbug-hold",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795035625046,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1795035771418,
+       "done": true,
+       "r": 10,
+       "w": null
+      },
+      {
+       "at": 1795035920115,
+       "done": true,
+       "r": 10,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "leg-press",
+     "note": "Position 7",
+     "sets": [
+      {
+       "at": 1795037299397,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795036390147,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795036491226,
+       "done": true,
+       "r": 10,
+       "w": 90
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 80,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "kinesis-chest-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795036681304,
+       "done": true,
+       "r": 10,
+       "w": 5
+      },
+      {
+       "at": 1795036749578,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1795036855396,
+       "done": true,
+       "r": 10,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "seated-cable-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795037039919,
+       "done": true,
+       "r": 10,
+       "w": 25
+      },
+      {
+       "at": 1795037259928,
+       "done": true,
+       "r": 10,
+       "w": 25
+      },
+      {
+       "at": 1795037165473,
+       "done": true,
+       "r": 10,
+       "w": 25
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1795032290804,
+   "u": 1795037304934
   }
  ],
  "targetLog": [
