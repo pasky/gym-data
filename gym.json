@@ -1780,6 +1780,278 @@
    "note": "",
    "start": 1795032290804,
    "u": 1795037304934
+  },
+  {
+   "end": null,
+   "id": "mwta004v6xp5g",
+   "items": [
+    {
+     "ex": "leg-press",
+     "note": "Position 6",
+     "sets": [
+      {
+       "at": 1795439098386,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795439190463,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795439278826,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795439369512,
+       "done": true,
+       "r": 10,
+       "w": 90
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 80,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795439554405,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 12.5
+      },
+      {
+       "at": 1795439698567,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 12.5
+      },
+      {
+       "at": 1795439864479,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 12.5
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 12.5,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "seated-cable-row",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795440102905,
+       "done": true,
+       "r": 10,
+       "w": 25
+      },
+      {
+       "at": 1795440221711,
+       "done": true,
+       "r": 10,
+       "w": 30
+      },
+      {
+       "at": 1795440406020,
+       "done": true,
+       "r": 10,
+       "w": 30
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 25,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "face-pull",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795440015841,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      },
+      {
+       "at": 1795440157437,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      },
+      {
+       "at": 1795440317347,
+       "done": true,
+       "r": 12,
+       "w": 12.5
+      }
+     ],
+     "ss": "row-facepull",
+     "target": {
+      "load": 12.5,
+      "reps": 12,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "machine-shoulder-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795440549523,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795440650328,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795440792278,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "deficit-reverse-lunge",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795441921886,
+       "done": true,
+       "r": 8,
+       "r2": 8,
+       "w": 14
+      },
+      {
+       "at": 1795442206492,
+       "done": true,
+       "r": 8,
+       "r2": 8,
+       "w": 14
+      },
+      {
+       "done": false,
+       "r": null,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 7,
+      "reps": 8,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "side-plank-hip-lift",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795441047572,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": null
+      },
+      {
+       "at": 1795441190447,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": null
+      },
+      {
+       "at": 1795441368603,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": null
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": null,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lateral-raise",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795441541571,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1795441637969,
+       "done": true,
+       "r": 10,
+       "w": 4
+      },
+      {
+       "at": 1795441739892,
+       "done": true,
+       "r": 10,
+       "w": 4
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 4,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1795438960303,
+   "u": 1795442206492
   }
  ],
  "targetLog": [
@@ -1810,12 +2082,19 @@
    "k": "load",
    "t": 1794232848502,
    "to": 45
+  },
+  {
+   "ex": "cable-trunk-twist",
+   "from": 10,
+   "k": "load",
+   "t": 1795439446577,
+   "to": 12.5
   }
  ],
  "targets": {
   "cable-trunk-twist": {
-   "load": 10,
-   "u": 1793373475627
+   "load": 12.5,
+   "u": 1795439446577
   },
   "curl-to-press": {
    "load": 7,
