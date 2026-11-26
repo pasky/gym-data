@@ -2054,6 +2054,175 @@
    "note": "",
    "start": 1795438960303,
    "u": 1795532482650
+  },
+  {
+   "end": 1795701413432,
+   "id": "mwxlakqyc8lus",
+   "items": [
+    {
+     "ex": "machine-shoulder-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795699845541,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795699945027,
+       "done": true,
+       "r": 10,
+       "w": 10
+      },
+      {
+       "at": 1795700045630,
+       "done": true,
+       "r": 10,
+       "w": 10
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 10,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "lat-pulldown",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795700124027,
+       "done": true,
+       "r": 10,
+       "w": 40
+      },
+      {
+       "at": 1795700212743,
+       "done": true,
+       "r": 10,
+       "w": 40
+      },
+      {
+       "at": 1795700306357,
+       "done": true,
+       "r": 10,
+       "w": 40
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 35,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "leg-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795700401806,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795700491889,
+       "done": true,
+       "r": 10,
+       "w": 90
+      },
+      {
+       "at": 1795700577737,
+       "done": true,
+       "r": 10,
+       "w": 90
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 80,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "ex": "cable-trunk-twist",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795700755305,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 15
+      },
+      {
+       "at": 1795700901552,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 15
+      },
+      {
+       "at": 1795701054954,
+       "done": true,
+       "r": 10,
+       "r2": 10,
+       "w": 15
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 15,
+      "reps": 10,
+      "rest": 90,
+      "sets": 3
+     }
+    },
+    {
+     "easy": true,
+     "ex": "kinesis-chest-press",
+     "note": "",
+     "sets": [
+      {
+       "at": 1795701190912,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1795701293278,
+       "done": true,
+       "r": 10,
+       "w": 7
+      },
+      {
+       "at": 1795701400491,
+       "done": true,
+       "r": 10,
+       "w": 7
+      }
+     ],
+     "ss": "",
+     "target": {
+      "load": 5,
+      "reps": 10,
+      "rest": 60,
+      "sets": 3
+     }
+    }
+   ],
+   "note": "",
+   "start": 1795699794058,
+   "u": 1795701413433
   }
  ],
  "targetLog": [
@@ -2091,12 +2260,19 @@
    "k": "load",
    "t": 1795439446577,
    "to": 12.5
+  },
+  {
+   "ex": "cable-trunk-twist",
+   "from": 12.5,
+   "k": "load",
+   "t": 1795700754115,
+   "to": 15
   }
  ],
  "targets": {
   "cable-trunk-twist": {
-   "load": 12.5,
-   "u": 1795439446577
+   "load": 15,
+   "u": 1795700754115
   },
   "curl-to-press": {
    "load": 7,
